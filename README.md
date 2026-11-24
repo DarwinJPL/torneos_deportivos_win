@@ -1,7 +1,7 @@
 # Torneos deportivos Win
 
-> **Alumno:** cambia este título por el nombre de tu producto y esta línea por una frase que lo explique.
-> Proyecto n.º ** del catálogo · Sitio de referencia: ** · [PRD](docs/PRD.md) · URL publicada: \_\_
+> **Alumno:** torneos deportivos win, se trata de una pagina que gestiona los partidos en directo y publica los resultados al concluir el juego.
+> Proyecto n.º 45 del catálogo · Sitio de referencia: Challonge · [PRD](docs/PRD.md) · URL publicada: \_\_
 
 Plantilla del proyecto de **Lenguaje de Programación · 2026**.
 La guía completa de la actividad está en el repositorio del curso:
